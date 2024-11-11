@@ -61,7 +61,7 @@ footer {
   background-color: rgb(245, 245, 3);
 }
 header {
-    position: fixed;
+    position: relative;
     border-bottom: 10px solid #2e1100;
   }
   body {
